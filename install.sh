@@ -1,7 +1,7 @@
 #Install and update usefull components
 cd
 apt-get update -y
-apt-get install openbox  tint2 obconf tmux zsh mc openssh git keepnote wget mpdcron curl rofi linux-headers-4.18.0-kali1-all linux-image-4.18.0-kali1-686 compton feh thunar nitrogen metasploit-framework burpsuite sqlmap grc -y 
+apt-get install openbox  tint2 obconf tmux zsh mc  git keepnote wget mpdcron curl rofi linux-headers-4.18.0-kali1-all linux-image-4.18.0-kali1-686 compton feh thunar nitrogen metasploit-framework burpsuite sqlmap grc -y 
 #Update exploit Database
 searchsploit -u 
 #Update sqlmap
