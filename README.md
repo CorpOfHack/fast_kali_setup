@@ -1,0 +1,2 @@
+# fast_kali_setup
+post_install_customization_script
